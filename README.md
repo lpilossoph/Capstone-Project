@@ -15,6 +15,7 @@ Having access to additional data other than patient interviews would indeed be b
 # The Plan
 
 I plan to first repeat the article's work by performing my own hypothesis test to confirm their theory. I will scrape data from similar forums found on reddit. The following table shows the characteristics of the forums I scraped from for this project:
+
 ![Forum Characteristics](https://i.postimg.cc/K8Y9RJn1/Screen-Shot-2019-04-24-at-12-13-21-PM.png)
 
 I then plan to examine the posts throughout reddit of self-identifying mental health redditors, not only in the mental health forums I originally retrieved the posts from. I will compares their posts with other authors not self-identifying as depressed/suicidal/anxious, in order to build a classifier that uses text to determine if a post is from an author who is depressed, anxious, or suicidal. Using the same authors posts but not limited to these forums, rather, all throughout reddit, helps to generalize the results.
