@@ -34,11 +34,10 @@ Finally, I will attempt to extract some features from my classifiers for potenti
 ### Mental Health Risk / Non-Mental Health Risk reddit post classifier yielded the following results:
 
 Multinomial Naive Bayes Results
-
-Precision:  0.76
-Recall:  0.78
-Accuracy:  0.77
-F1 Score:  0.77
+* Accuracy:  0.77
+* Precision:  0.76
+* Recall:  0.78
+* F1 Score:  0.77
 
 ![MNB Confusion Matrix](https://i.postimg.cc/3RxHtgGV/download-3.png)
 
@@ -46,11 +45,10 @@ F1 Score:  0.77
 ### Suicidal Ideation Risk/ Non-Suicidal Ideation Risk reddit post classifier yielded the following results:
 
 Multinomial Naive Bayes Results
-
-Accuracy:  0.66
-Precision:  0.64
-Recall:  0.77
-F1 Score:  0.70
+* Accuracy:  0.66
+* Precision:  0.64
+* Recall:  0.77
+* F1 Score:  0.70
 
 ![MNB Confusion Matrix2](https://i.postimg.cc/DyP33jcH/download-4.png)
 
