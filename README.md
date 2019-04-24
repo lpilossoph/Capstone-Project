@@ -39,7 +39,9 @@ Precision:  0.76
 Recall:  0.78
 Accuracy:  0.77
 F1 Score:  0.77
+
 ![MNB Confusion Matrix](https://i.postimg.cc/3RxHtgGV/download-3.png)
+
 
 ### Suicidal Ideation Risk/ Non-Suicidal Ideation Risk reddit post classifier yielded the following results:
 
@@ -49,6 +51,7 @@ Accuracy:  0.66
 Precision:  0.64
 Recall:  0.77
 F1 Score:  0.70
+
 ![MNB Confusion Matrix2](https://i.postimg.cc/DyP33jcH/download-4.png)
 
 ### Feature Extraction found the following features were most important:
@@ -65,17 +68,22 @@ Words in post:
 Features of post:
 * Post Length - shorter contributed to more suicidal posts
 * Percentage Absolutist Words used - Higher percentage contributed to more suicidal posts
+
 ![Feature Importance](https://i.postimg.cc/XqxLQCwH/download-5.png)
 
 # Visualizations
 Word Cloud for Suicide Forum Posts:
+
 ![Suicide Forum Wordcloud](https://i.postimg.cc/zBBLZHWH/download.png)
 
 Distribution of Percentage of Absolutist Words used in Suicide Forum:
+
 ![Suicide Distribution](https://i.postimg.cc/9MhhZ6Xm/download-1.png)
+
 Distribution of Percentage of Absolutists Words used in Diabetes Forum
 
 ![Diabetes Distribution](https://i.postimg.cc/cCWfqLsp/download-2.png)
+
 
 # Usage and Limitations
 
