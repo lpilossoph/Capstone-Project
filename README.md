@@ -1,5 +1,5 @@
 # Categorizing Mental Health Risk in Social Media Posts 
-![MH](MentalHealth_Flickr.jpg)
+![MH](https://bryantarchway.com/wp-content/uploads/2018/10/MentalHealth_Flickr.jpg)
 ### Classifying mental health patients' posts and classifying suicidal ideation in posts using deep learning
 
 # Motivation
