@@ -24,7 +24,9 @@ Finally, I will attempt to extract some features from my classifiers for potenti
 
 # Results
 
-### Three Part Hypothesis Test yielded the following results
+### Three Part Hypothesis Test yielded the following results:
+<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis_Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
+
 1. There is a statistically significant increase in absolutist words used in mental health related forums, compared with hobby and leisure forums
 
 2. There is a statistically significant increase in absolutist words used in mental health related forums, compared with other non-mental health related chronic illness forums
@@ -32,6 +34,7 @@ Finally, I will attempt to extract some features from my classifiers for potenti
 3. There is a statistically significant increase in absolutist words used in forums specifically addressing suicidal ideation, compared with other mental health related forums
 
 ### Mental Health Risk / Non-Mental Health Risk reddit post classifier yielded the following results:
+<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%202%20-%20Mental%20Health%20Risk%20Classifier.ipynb">Part 2 - Mental Health Risk Classifier - Link to Notebook</a>
 
 Multinomial Naive Bayes Results
 * Accuracy:  0.77
@@ -43,6 +46,7 @@ Multinomial Naive Bayes Results
 
 
 ### Suicidal Ideation Risk/ Non-Suicidal Ideation Risk reddit post classifier yielded the following results:
+<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%203%20-%20Suicide%20Risk%20Classifier.ipynb">Part 3 - Suicidal Ideation Risk Classifier - Link to Notebook</a>
 
 Multinomial Naive Bayes Results
 * Accuracy:  0.66
@@ -53,6 +57,7 @@ Multinomial Naive Bayes Results
 ![MNB Confusion Matrix2](https://i.postimg.cc/DyP33jcH/download-4.png)
 
 ### Feature Extraction found the following features were most important:
+<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%204%20-%20Feature%20Extraction%20.ipynb">Part 4 - Feature Extraction and Interpretation - Link to Notebook</a>
 
 Words in post:
 * "anxiety"
