@@ -27,7 +27,7 @@ Finally, I will attempt to extract some features from my classifiers for potenti
 # Results
 
 ### Three Part Hypothesis Test yielded the following results:
-<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis_Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis%20Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
 
 1. There is a statistically significant increase in absolutist words used in mental health related forums, compared with hobby and leisure forums
 
