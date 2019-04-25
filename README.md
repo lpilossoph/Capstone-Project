@@ -85,7 +85,7 @@ The ability to classify specific mental health issues using text has many use ca
 ![grab-landing-page](https://s3.gifyu.com/images/screen.gif)
 <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">
    
-   ### Link to Dashboard</a> Enjoy!
+   ### Link to Dashboard</a>
    
 # Limitations
 
