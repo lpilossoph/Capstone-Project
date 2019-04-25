@@ -83,7 +83,9 @@ Features of post:
 The ability to classify specific mental health issues using text has many use cases for clinicians and those who love anyone suffering with mental illness. We all communicate through text on a daily basis, whether it be on our phones, in forums, or via email. If our language could assist in a clinical diagnosis of depression or suicidal ideation, it could potentially be life-saving. A Clinical Dashboard similar to the prototype I <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">created</a> would be useful for clinicians in order to track how treatment with therapy and/or medications is affecting progress overtime. 
 
 ![grab-landing-page](https://s3.gifyu.com/images/screen.gif)
-<a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">Link to Dashboard</a> Enjoy!
+<a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">
+   
+   ## Link to Dashboard</a> Enjoy!
 
 Unfortunately, the lack of access to reliable and accurate data in this arena is a major limitation. Using redditors who had posted in suicide/depression/anxiety forums was the only way I could assume the presence of mental illness with the limited data available to me. The comparison forums provide another major limitation because there is no guarantee that these redditors are not also suffering from mental illness. 
 
