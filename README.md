@@ -23,6 +23,8 @@ I then built another classifier using deep learning to classify depressed and an
 
 Finally, I built a third classifier, adding in calculable features such as post length, percentage of absolutist words used, sentiment, and subjectivity, as well as the time of day of the post. I was able to extract some important features from my classifiers for potential future research and academic purposes. With the features that I was able to extract, I created a <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">Dashboard</a> prototype for clinicians to input a patient's social media handle, and a time frame, in order to track statistics that seem to correlate with the presence of mental health issues overtime. 
 
+![Snapshot](https://i.postimg.cc/XqwSyvF7/Screen-Shot-2019-04-24-at-9-54-29-PM.png)
+
 # Results
 
 ### Three Part Hypothesis Test yielded the following results:
