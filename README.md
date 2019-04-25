@@ -1,4 +1,4 @@
-# Classification of Mental Health Risk Using Social Media Posts 
+# Classification of Mental Health Risk Using Social Media Text 
 ![MH](https://bryantarchway.com/wp-content/uploads/2018/10/MentalHealth_Flickr.jpg)
 
 # Motivation
