@@ -93,5 +93,5 @@ Unfortunately, the lack of access to reliable and accurate data in this arena is
 
 Future work would involve similar classification building and deep learning using more accurate and reliably labeled data. If this project is any indication of how well a trained classifier and deep neural network can perform, it would be a major breakthrough to be able to work with actual clinical data!
 
-# Blog Post Link
+### Blog Post Link
 http://lpilossoph.github.io/reddit_scraping_with_praw
