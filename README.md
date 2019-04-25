@@ -29,11 +29,13 @@ Finally, I built a third classifier, adding in calculable features such as post 
 ### Three Part Hypothesis Test yielded the following results:
 <a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis%20Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
 
-1. There is a statistically significant increase in absolutist words used in mental health related forums, compared with hobby and leisure forums
+1. There is a statistically significant increase in absolutist words used in mental health related forums, compared with hobby and leisure forums.
 
-2. There is a statistically significant increase in absolutist words used in mental health related forums, compared with other non-mental health related chronic illness forums
+2. There is a statistically significant increase in absolutist words used in mental health related forums, compared with other non-mental health related chronic illness forums (excluding hobby/leisure forums).
 
-3. There is a statistically significant increase in absolutist words used in forums specifically addressing suicidal ideation, compared with other mental health related forums
+3. There is a statistically significant increase in absolutist words used in forums specifically addressing suicidal ideation, compared with other mental health related forums.
+
+![Suicide Forum Wordcloud](https://i.postimg.cc/zBBLZHWH/download.png)
 
 ### Mental Health Risk / Non-Mental Health Risk reddit post classifier yielded the following results:
 <a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%202%20-%20Mental%20Health%20Risk%20Classifier.ipynb">Part 2 - Mental Health Risk Classifier - Link to Notebook</a>
@@ -44,7 +46,7 @@ Multinomial Naive Bayes Results
 * Recall:  0.78
 * F1 Score:  0.77
 
-![MNB Confusion Matrix](https://i.postimg.cc/3RxHtgGV/download-3.png)
+![MNB Confusion Matrix1](https://i.postimg.cc/3RxHtgGV/download-3.png)
 
 
 ### Suicidal Ideation Risk/ Non-Suicidal Ideation Risk reddit post classifier yielded the following results:
@@ -75,20 +77,6 @@ Features of post:
 * Percentage Absolutist Words used - Higher percentage contributed to more suicidal posts
 
 ![Feature Importance](https://i.postimg.cc/XqxLQCwH/download-5.png)
-
-# Visualizations
-Word Cloud for Suicide Forum Posts:
-
-![Suicide Forum Wordcloud](https://i.postimg.cc/zBBLZHWH/download.png)
-
-Distribution of Percentage of Absolutist Words used in Suicide Forum:
-
-![Suicide Distribution](https://i.postimg.cc/9MhhZ6Xm/download-1.png)
-
-Distribution of Percentage of Absolutists Words used in Diabetes Forum
-
-![Diabetes Distribution](https://i.postimg.cc/cCWfqLsp/download-2.png)
-
 
 # Usage and Limitations
 
