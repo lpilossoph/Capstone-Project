@@ -78,14 +78,16 @@ Features of post:
 
 ![Feature Importance](https://i.postimg.cc/XqxLQCwH/download-5.png)
 
-# Usage and Limitations
+# Use Cases
 
-The ability to classify specific mental health issues using text has many use cases for clinicians and those who love anyone suffering with mental illness. We all communicate through text on a daily basis, whether it be on our phones, in forums, or via email. If our language could assist in a clinical diagnosis of depression or suicidal ideation, it could potentially be life-saving. A Clinical Dashboard similar to the prototype I <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">created</a> would be useful for clinicians in order to track how treatment with therapy and/or medications is affecting progress overtime. 
+The ability to classify specific mental health issues using text has many use cases for clinicians and those who love anyone suffering with mental illness. We all communicate through text on a daily basis, whether it be on our phones, in forums, or via email. If our language could assist in a clinical diagnosis of depression or suicidal ideation, it could potentially be life-saving. Social media participants could be screened for at risk users leading to *meaningful* targeted ads that could potentially help them. In the healthcare setting, a Clinical Dashboard similar to the prototype I <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">created</a> could be useful for providers in order to track how treatment with therapy and/or medications is affecting progress overtime. 
 
 ![grab-landing-page](https://s3.gifyu.com/images/screen.gif)
 <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">
    
-   ## Link to Dashboard</a> Enjoy!
+   ### Link to Dashboard</a> Enjoy!
+   
+# Limitations
 
 Unfortunately, the lack of access to reliable and accurate data in this arena is a major limitation. Using redditors who had posted in suicide/depression/anxiety forums was the only way I could assume the presence of mental illness with the limited data available to me. The comparison forums provide another major limitation because there is no guarantee that these redditors are not also suffering from mental illness. 
 
