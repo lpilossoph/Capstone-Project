@@ -10,7 +10,7 @@
    Having access to additional data would indeed be beneficial to mental health clinicians in order to assist in accurately identifying patients who should be treated for depression, anxiety, or most importantly, suicidal ideation. If there is a way to incorporate NLP in new ways, combined with what we already know about the language of mental health patients, in order to enhance diagnostic data, clinicians and patients both stand to benefit immensely.
 
 
-# The Process
+# Methods
 
 I first repeated the article's work by performing my own hypothesis test to confirm their results. I scraped data from similar forums found on reddit. The following table shows the characteristics of the forums that I scraped from for this project:
 
