@@ -62,6 +62,8 @@ Multinomial Naive Bayes Results
 
 ### Feature Extraction found the following features were most important:
 <a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%204%20-%20Feature%20Extraction%20.ipynb">Part 4 - Feature Extraction and Interpretation - Link to Notebook</a>
+Several Features were shown to be important when the model determined a classification:
+![Feature Importance](https://i.postimg.cc/Lhd71Srt/Screen-Shot-2019-04-26-at-3-56-52-PM.png)
 
 Words in post:
 * "anxiety"
@@ -74,8 +76,6 @@ Features of post:
 * Percentage Absolutist Words used - Higher percentage contributed to more suicidal posts
 * Sentiment 
 * Subjectivity
-
-![Feature Importance](https://i.postimg.cc/Lhd71Srt/Screen-Shot-2019-04-26-at-3-56-52-PM.png)
 
 # Use Cases
 
