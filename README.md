@@ -64,14 +64,15 @@ Multinomial Naive Bayes Results
 
 ![Feature Importance](https://i.postimg.cc/Lhd71Srt/Screen-Shot-2019-04-26-at-3-56-52-PM.png)
 
-Words in post:
+#### Words in post:
 * "anxiety"
 * "suicide"
 * "die"
 * "kill"
 * "life"
 * "anymore"
-Features of post:
+
+#### Features of post:
 * Percentage Absolutist Words used - Higher percentage contributed to more suicidal posts
 * Sentiment 
 * Subjectivity
