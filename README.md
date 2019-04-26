@@ -66,17 +66,16 @@ Multinomial Naive Bayes Results
 Words in post:
 * "anxiety"
 * "suicide"
-* "life"
 * "die"
 * "kill"
+* "life"
 * "anymore"
-* "live"
-* "fuck"
 Features of post:
-* Post Length - shorter contributed to more suicidal posts
 * Percentage Absolutist Words used - Higher percentage contributed to more suicidal posts
+* Sentiment 
+* Subjectivity
 
-![Feature Importance](https://i.postimg.cc/XqxLQCwH/download-5.png)
+![Feature Importance](https://i.postimg.cc/Lhd71Srt/Screen-Shot-2019-04-26-at-3-56-52-PM.png)
 
 # Use Cases
 
