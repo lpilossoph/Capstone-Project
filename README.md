@@ -1,7 +1,7 @@
 # Classification of Mental Health Risk Using Social Media Text 
 ![MH](https://bryantarchway.com/wp-content/uploads/2018/10/MentalHealth_Flickr.jpg)
 
-# Motivation
+# Motivation:
 
    Mental-Health clinicians face many obstacles, among them include the ability to diagnose patients with serious mental illness when typically they are only allotted sporadic one hour sessions in which to collect as much information as possible to create an accurate and potentially life-altering diagnosis. At the moment, the best supplements that clinicians have include surveys, out-dated questionnaires, and family interview to gather more information, which most patients understandably object to due to privacy concerns. Having access to additional data would indeed be beneficial to mental health clinicians in order to assist in accurately identifying patients who should be diagnosed with depression, anxiety, or most importantly, having suicidal ideation. 
 
@@ -10,7 +10,7 @@
    Having access to additional data would indeed be beneficial to mental health clinicians in order to assist in accurately identifying patients who should be treated for depression, anxiety, or most importantly, suicidal ideation. If there is a way to incorporate NLP in new ways, combined with what we already know about the language of mental health patients, in order to enhance diagnostic data, clinicians and patients both stand to benefit immensely.
 
 
-# Methods
+# Methods:
 
 I first repeated the article's work by performing my own hypothesis test to confirm their results. I scraped data from similar forums found on reddit. The following table shows the characteristics of the forums that I scraped from for this project:
 
@@ -24,7 +24,7 @@ Finally, I built a third classifier, adding in calculable features such as post 
 
 ![Snapshot](https://i.postimg.cc/XqwSyvF7/Screen-Shot-2019-04-24-at-9-54-29-PM.png)
 
-# Results
+# Results:
 
 ### Three Part Hypothesis Test yielded the following results:
 <a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis%20Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
@@ -80,7 +80,7 @@ Multinomial Naive Bayes Results
 <a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%204%20-%20Feature%20Extraction%20.ipynb">Part 4 - Feature Extraction and Interpretation - Link to Notebook</a>
 
 
-# Use Cases
+# Use Cases:
 
 The ability to classify specific mental health issues using text has many use cases for clinicians and those who love anyone suffering with mental illness. We all communicate through text on a daily basis, whether it be on our phones, in forums, or via email. If our language could assist in a clinical diagnosis of depression or suicidal ideation, it could potentially be life-saving. Social media participants could be screened for at risk users leading to *meaningful* targeted ads that could potentially help them. In the healthcare setting, a Clinical Dashboard similar to the prototype I <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">created</a> could be useful for providers in order to track how treatment with therapy and/or medications is affecting progress overtime. 
 
